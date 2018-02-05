@@ -1,0 +1,51 @@
+! Xterm
+XTerm*utf8: 1
+XTerm*faceName: Bitstream Vera Serif Mono
+xterm*faceSize: 9
+xterm*vt100*geometry: 80x60
+xterm*saveLines: 16384
+xterm*loginShell: true
+xterm*charClass: 33:48,35:48,37:48,43:48,45-47:48,64:48,95:48,126:48
+xterm*termName: xterm-color
+xterm*eightBitInput: false
+! URxvt
+URxvt*font: xft:Bitstream Vera Sans Mono-9
+URxvt.scrollBar: false
+
+! special
+*.foreground:   #d9c783
+*.background:   #130801
+*.cursorColor:  #d9c783
+
+! black
+*.color0:       #1f0d03
+*.color8:       #311505
+
+! red
+*.color1:       #a93b14
+*.color9:       #d04e20
+
+! green
+*.color2:       #566313
+*.color10:      #788a1a
+
+! yellow
+*.color3:       #cf6c11
+*.color11:      #d77d2b
+
+! blue
+*.color4:       #4d745a
+*.color12:      #699e7b
+
+! magenta
+*.color5:       #6e3631
+*.color13:      #a35048
+
+! cyan
+*.color6:       #428d45
+*.color14:      #5ac05e
+
+! white
+*.color7:       #3e2f21
+*.color15:      #e3bb99
+
